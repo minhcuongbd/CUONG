@@ -1,0 +1,10 @@
+{
+  "name": "Remix CheckIn Alarm - Nhắc Check-in Công Ty",
+  "description": "Ứng dụng Android nhắc nhở và reo chuông báo thức chống quên chấm công khi đến công ty.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
